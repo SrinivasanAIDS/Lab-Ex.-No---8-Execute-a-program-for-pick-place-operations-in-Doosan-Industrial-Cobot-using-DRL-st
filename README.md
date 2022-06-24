@@ -40,16 +40,16 @@ Procedure:
 
 
 ## Program 
-// Roll no:
+![image](https://user-images.githubusercontent.com/103049243/175456657-b687ecc3-7587-43cb-a748-0651691ee306.png)
 
-//Name:
-MoveJ ................
-
-## output : 
+## Output : 
+![image](https://user-images.githubusercontent.com/103049243/175457165-fc978ae8-c8be-4bf3-9227-243a57d40cce.png)
+![image](https://user-images.githubusercontent.com/103049243/175457110-f6ec755e-62a0-4c52-8150-d9b866d89628.png)
+![image](https://user-images.githubusercontent.com/103049243/175456879-c793dc2c-17de-4e33-8c7c-1ef7738ae44b.png)
 
 
 ## Results: 
-
+Thus, Program for pick and place operation in Doosan Industrial Robot using DRL Studio is executed
 
 
 
